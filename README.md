@@ -1,5 +1,5 @@
 # Autoapp
-Az aplikáció a toga és a beeware felhasználásával python nyelven készült ami egy excel tábla_
+Az aplikáció a toga és a beeware felhasználásával python nyelven készült ami egy excel tábla:
 -importálására
 -exportálására
 -adatok felvételére és listázására képes. 
